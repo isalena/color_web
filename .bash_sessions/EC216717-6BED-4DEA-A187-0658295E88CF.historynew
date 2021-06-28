@@ -1,0 +1,8 @@
+cd/Users/isalenasutter/Desktop/BMS\:BS/Herr_Garavaldi_allgemein/test 
+ls
+clear
+cd /Users/isalenasutter/Desktop/BMS\:BS/Herr_Garavaldi_allgemein/test 
+ls
+echo "# test" >> README.md
+git init
+git init
